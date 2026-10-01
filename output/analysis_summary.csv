@@ -1,0 +1,7 @@
+session_id,participant_id,classification,average_heart_rate,min_activity,max_activity,usable_observations,total_observations
+FIT-2026-001,P001,resting,68.8,0.07,0.12,6,6
+FIT-2026-002,P002,moderate activity,102.0,0.22,0.68,6,6
+FIT-2026-003,P003,high activity,132.5,0.25,0.94,6,6
+FIT-2026-004,P001,high activity,113.2,0.18,0.92,6,6
+FIT-2026-005,P002,insufficient data,,,,0,5
+FIT-2026-101,P001,resting,72.0,0.10,0.10,1,1

@@ -1,0 +1,2 @@
+"""No extrenal packages are required and this project only uses 
+Python's standard library. Like the assignment asked for."""

@@ -1,0 +1,61 @@
+Session ID: FIT-2026-001
+Session Report for P001
+Participant: Amina Noor
+Classification: resting
+Reason: Average heart rate stayed close to the participant's baseline heart rate.
+Baseline heart rate: 68.0 bpm
+Average heart rate: 68.8 bpm
+Activity level range: 0.07 to 0.12
+Usable observations: 6 out of 6
+
+Session ID: FIT-2026-002
+Session Report for P002
+Participant: Jonas Berg
+Classification: moderate activity
+Reason: Average heart rate was moderately above the participant's baseline heart rate.
+Baseline heart rate: 74.0 bpm
+Average heart rate: 102.0 bpm
+Activity level range: 0.22 to 0.68
+Usable observations: 6 out of 6
+
+Session ID: FIT-2026-003
+Session Report for P003
+Participant: Maya Chen
+Classification: high activity
+Reason: Average heart rate was substantially above the participant's baseline heart rate.
+Baseline heart rate: 63.0 bpm
+Average heart rate: 132.5 bpm
+Activity level range: 0.25 to 0.94
+Usable observations: 6 out of 6
+
+Session ID: FIT-2026-004
+Session Report for P001
+Participant: Amina Noor
+Classification: high activity
+Reason: Average heart rate was substantially above the participant's baseline heart rate.
+Baseline heart rate: 68.0 bpm
+Average heart rate: 113.2 bpm
+Activity level range: 0.18 to 0.92
+Usable observations: 6 out of 6
+
+Session ID: FIT-2026-005
+Session Report for P002
+Participant: Jonas Berg
+Classification: insufficient data
+Reason: Fewer than half of the observations have acceptable signal quality.
+Baseline heart rate: 74.0 bpm
+Average heart rate: not available
+Activity level range: not available
+Usable observations: 0 out of 5
+Poor-quality observations: 5
+
+Session ID: FIT-2026-101
+Session Report for P001
+Participant: Amina Noor
+Classification: resting
+Reason: Average heart rate stayed close to the participant's baseline heart rate.
+Baseline heart rate: 68.0 bpm
+Average heart rate: 72.0 bpm
+Activity level range: 0.10 to 0.10
+Usable observations: 1 out of 1
+

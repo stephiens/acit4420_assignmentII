@@ -1,0 +1,10 @@
+data/fitness_sessions_invalid.csv row 3 heart_rate 'fast' is not a valid number
+data/fitness_sessions_invalid.csv row 4 participant_id invalid format '001'
+data/fitness_sessions_invalid.csv row 5 activity_level missing value
+data/fitness_sessions_invalid.csv row 6 signal_quality must be between 0 and 1
+data/fitness_sessions_invalid.csv row 7 session_id invalid format 'FIT-26-102'
+data/fitness_sessions_invalid.csv row 8 participant_id unknown participant 'P999'
+data/fitness_sessions_invalid.csv row 9 timestamp 'two' is not a valid number
+data/fitness_sessions_invalid.csv row 10 heart_rate must be between 35 and 205
+data/fitness_sessions_invalid.csv row 11 skin_response must be non-negative
+data/fitness_sessions_invalid.csv row 12 signal_quality missing value
